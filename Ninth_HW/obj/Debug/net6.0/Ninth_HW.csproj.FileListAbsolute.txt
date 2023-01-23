@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\bin\Debug\net6.0\Ninth_HW.exe
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\bin\Debug\net6.0\Ninth_HW.deps.json
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\bin\Debug\net6.0\Ninth_HW.runtimeconfig.json
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\bin\Debug\net6.0\Ninth_HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\bin\Debug\net6.0\Ninth_HW.pdb
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\refint\Ninth_HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.pdb
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\Ninth_HW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Ninth_HW\obj\Debug\net6.0\ref\Ninth_HW.dll
