@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\bin\Debug\net6.0\Sixth-HW.exe
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\bin\Debug\net6.0\Sixth-HW.deps.json
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\bin\Debug\net6.0\Sixth-HW.runtimeconfig.json
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\bin\Debug\net6.0\Sixth-HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\bin\Debug\net6.0\Sixth-HW.pdb
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\refint\Sixth-HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.pdb
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\Sixth-HW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Sixth-HW\obj\Debug\net6.0\ref\Sixth-HW.dll
