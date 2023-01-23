@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\bin\Debug\net6.0\Eight_HW.exe
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\bin\Debug\net6.0\Eight_HW.deps.json
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\bin\Debug\net6.0\Eight_HW.runtimeconfig.json
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\bin\Debug\net6.0\Eight_HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\bin\Debug\net6.0\Eight_HW.pdb
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\refint\Eight_HW.dll
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.pdb
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\Eight_HW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др1 С-шарп\Eight_HW\obj\Debug\net6.0\ref\Eight_HW.dll
